@@ -1,10 +1,14 @@
 # 👨‍🎓 Certifica Aí 👩‍🎓
-Somos uma equipe inovadora com o objetivo de implantar uma nova maneira de self-service, nosso aplicativo visa o melhor atendimento e usabilidade ao cliente. Nosso diferencial visa a possibilidade de escolha pelo usuário, podendo variar entre almoço ou lanche personalizado. Quer conhecer nosso trabalho?
+CERTIFICA AÍ é uma empresa do ramo acadêmico, especializada no desenvolvimento de softwares e na solução de problemas institucionais e educacionais, promovendo a praticidade e autenticidade. Quer conhecer nosso trabalho?
+
+## ⁉Problema
+Em muitas faculdades a validação das horas complementares são bem lentas, dificultando o acompanhamento dos alunos e sendo simplificadas 
+por formulários
 
 ## :dart:Objetivo
-Para clientes interessados em self-service, que desejam servir-se sem sair de sua residência, a Lunch or Net é uma proposta que visa atender as necessidades dos clientes, de acordo com a sua preferência. Ao invés dos restaurantes convencionais com pratos feitos, nosso produto possibilita escolhas personalizadas e adaptáveis.
-##  :desktop_computer:  Arquitetura de Software no Desenvolvimento
+O projeto visa a automatização da entrega e contabilização de certificado, além de diminuir a carga de trabalho dos colaboradores. 
 
+##  :desktop_computer:  Arquitetura de Software no Desenvolvimento
 * Figma - Design.
 * Netbeans - Front e Back.
 * MySQL - Banco de dados. 
